@@ -48,8 +48,13 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallMove.cs" />
      <Compile Include="Assets\Scripts\CharacterController2D.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\InputAxisDownManager.cs" />
+     <Compile Include="Assets\Scripts\ProjectShadowTowards.cs" />
+     <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Tate Conlon/Desktop/git/Super Ball Chaser/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
