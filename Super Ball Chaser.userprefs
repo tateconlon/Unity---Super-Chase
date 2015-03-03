@@ -1,12 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\HowToPlayAnimationManager.cs">
     <Files>
-      <File FileName="Assets\Scripts\ProjectShadowTowards.cs" Line="6" Column="52" />
-      <File FileName="Assets\Scripts\CharacterController2D.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\InputAxisDownManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BallMove.cs" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\HowToPlayAnimationManager.cs" Line="20" Column="41" />
+      <File FileName="Assets\_Scripts\SinglePlayerGameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\PlayerChooser1P.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\RaceCharacterSelectAnimationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\CharacterAudioManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

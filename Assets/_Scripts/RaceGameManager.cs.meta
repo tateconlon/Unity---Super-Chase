@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: adc13d7c406eb044b903e4e2bed0ed77
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bobPrefab: {fileID: 127694, guid: 6ab8aeb31f15f0a46ab5c6118239a681, type: 2}
+  - bobItalyPrefab: {fileID: 127694, guid: c8cf1d244472a864f8387ba5b58837ba, type: 2}
+  - bobFrancePrefab: {fileID: 127694, guid: 8daf60e29dd121d4e94973cd7cb08a1b, type: 2}
+  - bobCanadaPrefab: {fileID: 127694, guid: e863c2cf97d33e64580cc788f16d7444, type: 2}
+  - garyPrefab: {fileID: 194802, guid: a179c13128aea114cbd6a61a8b064520, type: 2}
+  - garyYellowPrefab: {fileID: 194802, guid: cfcdade52d4af1442a5a4cc1bf78b786, type: 2}
+  - garyRedPrefab: {fileID: 194802, guid: e99f22d6ed122094da54c67964e26409, type: 2}
+  - garyJapanPrefab: {fileID: 194802, guid: 46074264390f90949b5ce3188db15f0c, type: 2}
+  - garyProjectorPrefab: {fileID: 133354, guid: bbb8395f9109ef84ca8c07e5ce5f4128,
+      type: 2}
+  - bobProjectorPrefab: {fileID: 162408, guid: dfd28362bda982a44a6e3b954321fbae, type: 2}
+  - player1Spawn: {instanceID: 0}
+  - player2Spawn: {instanceID: 0}
+  - projector1Spawn: {instanceID: 0}
+  - projector2Spawn: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - winText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

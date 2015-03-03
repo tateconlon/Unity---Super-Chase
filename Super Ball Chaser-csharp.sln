@@ -17,7 +17,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-										GlobalSection(MonoDevelopProperties) = preSolution
+																																																																																		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -55,6 +55,9 @@ Global
 		$0.StandardHeader = $4
 		$4.Text = 
 		$4.IncludeInNewFiles = True
+		$0.DotNetNamingPolicy = $5
+		$5.DirectoryNamespaceAssociation = None
+		$5.ResourceNamePolicy = FileFormatDefault
 	EndGlobalSection
 
 EndGlobal
