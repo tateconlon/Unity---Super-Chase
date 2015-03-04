@@ -1,2 +1,2 @@
-# Unity---Super-Chase
-Catch that ball!
+# Chase Race
+Gary and Bob duke it out in a neon world.
