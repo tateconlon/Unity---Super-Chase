@@ -1,0 +1,165 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA GeForce GT 320 (ID=0xca2)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tate Conlon\Desktop\git\Super Ball Chaser\Chase Race_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 4.003810 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 1.289872 ms (FindLiveObjects: 0.020899 ms CreateObjectMapping: 0.013932 ms MarkObjects: 0.179658 ms  DeleteObjects: 0.602404 ms)
+
+UnloadTime: 1.154945 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 752.
+Total: 3.586196 ms (FindLiveObjects: 0.028965 ms CreateObjectMapping: 0.017599 ms MarkObjects: 0.295152 ms  DeleteObjects: 2.625208 ms)
+
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+UnloadTime: 2.328222 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2087.
+Total: 1.165944 ms (FindLiveObjects: 0.137493 ms CreateObjectMapping: 0.024565 ms MarkObjects: 0.268020 ms  DeleteObjects: 0.271687 ms)
+
+right
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Right Stop
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+right
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+right
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Beep
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Right Stop
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Beep
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.129865 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 423.
+Total: 2.150031 ms (FindLiveObjects: 0.014665 ms CreateObjectMapping: 0.019432 ms MarkObjects: 0.222922 ms  DeleteObjects: 1.392167 ms)
+
+UnloadTime: 0.876658 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 844.
+Total: 1.610690 ms (FindLiveObjects: 0.034831 ms CreateObjectMapping: 0.023465 ms MarkObjects: 0.390481 ms  DeleteObjects: 0.662168 ms)
+
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+UnloadTime: 2.015471 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2484.
+Total: 1.143212 ms (FindLiveObjects: 0.088729 ms CreateObjectMapping: 0.028598 ms MarkObjects: 0.309085 ms  DeleteObjects: 0.272053 ms)
+
+Beep
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.609076 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 423.
+Total: 3.548065 ms (FindLiveObjects: 0.015032 ms CreateObjectMapping: 0.023465 ms MarkObjects: 0.224389 ms  DeleteObjects: 2.821366 ms)
+
+UnloadTime: 1.060716 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 844.
+Total: 1.500695 ms (FindLiveObjects: 0.031165 ms CreateObjectMapping: 0.027865 ms MarkObjects: 0.431179 ms  DeleteObjects: 0.517342 ms)
+
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+UnloadTime: 1.978072 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2087.
+Total: 1.069149 ms (FindLiveObjects: 0.076629 ms CreateObjectMapping: 0.031898 ms MarkObjects: 0.243088 ms  DeleteObjects: 0.274620 ms)
+
+left
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+right
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.100167 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 423.
+Total: 3.886482 ms (FindLiveObjects: 0.015399 ms CreateObjectMapping: 0.027132 ms MarkObjects: 0.230989 ms  DeleteObjects: 3.136318 ms)
+

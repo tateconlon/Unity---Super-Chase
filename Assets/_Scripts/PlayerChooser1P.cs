@@ -46,6 +46,8 @@ public class PlayerChooser1P : MonoBehaviour {
 		axis1 = new InputAxisDownManager(2);	//arrow keys
 		
 		DisplayPlayerSprite();
+		GameControl.control.characterNumP1 = characterNumP1;
+		GameControl.control.styleNumP1 = styleNumP1;
 	}
 	
 	// Update is called once per frame
@@ -67,7 +69,7 @@ public class PlayerChooser1P : MonoBehaviour {
 		}
 	}
 	
-	void ChangeCharacterP1(){
+	public void ChangeCharacterP1(){
 		charChange.Play();
 		characterNumP1 = (characterNumP1 + 1) % 2;
 		styleNumP1 = 0;
@@ -86,7 +88,7 @@ public class PlayerChooser1P : MonoBehaviour {
 		DisplayPlayerSprite();
 	}
 	
-	void UpStyleP1() {
+	public void UpStyleP1() {
 		charChange.Play();
 		styleNumP1 = (styleNumP1 + 1) % MAX_STYLE;
 		DisplayPlayerSprite();
@@ -94,7 +96,7 @@ public class PlayerChooser1P : MonoBehaviour {
 		GameControl.control.styleNumP1 = styleNumP1;
 	}
 	
-	void DownStyleP1() {
+	public void DownStyleP1() {
 		charChange.Play();
 		if(styleNumP1 == 0)
 			styleNumP1 = MAX_STYLE;
@@ -103,7 +105,7 @@ public class PlayerChooser1P : MonoBehaviour {
 		GameControl.control.characterNumP1 = characterNumP1;
 		GameControl.control.styleNumP1 = styleNumP1;
 	}
-	
+
 	void DisplayPlayerSprite(){
 			if(characterNumP1 == 0) {
 				sr1Bob.enabled = false;

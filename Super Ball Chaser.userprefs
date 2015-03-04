@@ -1,12 +1,19 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\HowToPlayAnimationManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\PlayerChooser1P.cs">
     <Files>
-      <File FileName="Assets\_Scripts\HowToPlayAnimationManager.cs" Line="20" Column="41" />
+      <File FileName="Assets\_Scripts\PlayerChooser1P.cs" Line="105" Column="5" />
+      <File FileName="Assets\_Scripts\GameControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\HowToPlayAnimationManager.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\SinglePlayerGameManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\PlayerChooser1P.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\RaceCharacterSelectAnimationManager.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\CharacterAudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\GaryStyle.cs" Line="1" Column="1" />
+      <File FileName="Assets\ItalisizeFlasher.cs" Line="1" Column="1" />
+      <File FileName="Assets\SpaceLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\ButtonColorFlasher.cs" Line="85" Column="3" />
+      <File FileName="Assets\_Scripts\PlayerChooser.cs" Line="181" Column="9" />
+      <File FileName="Assets\_Scripts\CharacterController2D.cs" Line="64" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

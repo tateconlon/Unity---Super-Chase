@@ -64,6 +64,11 @@ public class PlayerChooser : MonoBehaviour {
 
 		DisplayPlayerSprite(1);
 		DisplayPlayerSprite(2);
+
+		GameControl.control.characterNumP1 = characterNumP1;
+		GameControl.control.styleNumP1 = styleNumP1;
+		GameControl.control.characterNumP2 = characterNumP2;
+		GameControl.control.styleNumP2 = styleNumP2;
 	}
 	
 	// Update is called once per frame
@@ -94,7 +99,7 @@ public class PlayerChooser : MonoBehaviour {
 		}
 	}
 
-	void ChangeCharacterP1(){
+	public void ChangeCharacterP1(){
 		charChange.Play();
 		characterNumP1 = (characterNumP1 + 1) % 2;
 		styleNumP1 = 0;
@@ -116,7 +121,7 @@ public class PlayerChooser : MonoBehaviour {
 		DisplayPlayerSprite(1);
 	}
 
-	void ChangeCharacterP2(){
+	public void ChangeCharacterP2(){
 		charChange.Play();
 		characterNumP2 = (characterNumP2 + 1) % 2;
 		styleNumP2 = 0;
@@ -138,7 +143,7 @@ public class PlayerChooser : MonoBehaviour {
 		DisplayPlayerSprite(2);
 	}
 
-	void UpStyleP1() {
+	public void UpStyleP1() {
 		charChange.Play();
 		do{
 			styleNumP1 = (styleNumP1 + 1) % MAX_STYLE;
@@ -150,7 +155,7 @@ public class PlayerChooser : MonoBehaviour {
 
 
 
-	void DownStyleP1() {
+	public void DownStyleP1() {
 		charChange.Play();
 		do{
 			if(styleNumP1 == 0)
@@ -163,7 +168,7 @@ public class PlayerChooser : MonoBehaviour {
 	}
 
 
-	void UpStyleP2() {
+	public void UpStyleP2() {
 		charChange.Play();
 		do{
 			styleNumP2 = (styleNumP2 + 1) % MAX_STYLE;
@@ -173,7 +178,7 @@ public class PlayerChooser : MonoBehaviour {
 		GameControl.control.styleNumP2 = styleNumP2;
 	}
 
-	void DownStyleP2() {
+	public void DownStyleP2() {
 		charChange.Play();
 		do{
 			if(styleNumP2 == 0)

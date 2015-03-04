@@ -33,8 +33,9 @@ public class GameControl : MonoBehaviour {
 
 	void Update(){
 		if(Input.GetKey(KeyCode.Escape)) {
+			if(GameManager.gm != null)
+				StartMenuMusic();
 			Application.LoadLevel("menu");
-			StartMenuMusic();
 		}
 	}
 
